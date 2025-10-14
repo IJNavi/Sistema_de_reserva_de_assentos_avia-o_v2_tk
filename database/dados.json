@@ -1,0 +1,4935 @@
+{
+  "passageiros": {},
+  "voos": {
+    "AA123": {
+      "numero": "AA123",
+      "origem": "GRU",
+      "destino": "JFK",
+      "data_hora": "2024-12-01 08:00",
+      "aeronave": {
+        "configuracao": [
+          30,
+          6
+        ],
+        "classes": {
+          "primeira": 2,
+          "executiva": 8,
+          "economica": 30
+        },
+        "fileiras_emergencia": [
+          10,
+          11
+        ]
+      },
+      "assentos": {
+        "1A": {
+          "numero": "1A",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1B": {
+          "numero": "1B",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1C": {
+          "numero": "1C",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1D": {
+          "numero": "1D",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1E": {
+          "numero": "1E",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1F": {
+          "numero": "1F",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2A": {
+          "numero": "2A",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2B": {
+          "numero": "2B",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2C": {
+          "numero": "2C",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2D": {
+          "numero": "2D",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2E": {
+          "numero": "2E",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2F": {
+          "numero": "2F",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3A": {
+          "numero": "3A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3B": {
+          "numero": "3B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3C": {
+          "numero": "3C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3D": {
+          "numero": "3D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3E": {
+          "numero": "3E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3F": {
+          "numero": "3F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4A": {
+          "numero": "4A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4B": {
+          "numero": "4B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4C": {
+          "numero": "4C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4D": {
+          "numero": "4D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4E": {
+          "numero": "4E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4F": {
+          "numero": "4F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5A": {
+          "numero": "5A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5B": {
+          "numero": "5B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5C": {
+          "numero": "5C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5D": {
+          "numero": "5D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5E": {
+          "numero": "5E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5F": {
+          "numero": "5F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6A": {
+          "numero": "6A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6B": {
+          "numero": "6B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6C": {
+          "numero": "6C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6D": {
+          "numero": "6D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6E": {
+          "numero": "6E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6F": {
+          "numero": "6F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7A": {
+          "numero": "7A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7B": {
+          "numero": "7B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7C": {
+          "numero": "7C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7D": {
+          "numero": "7D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7E": {
+          "numero": "7E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7F": {
+          "numero": "7F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8A": {
+          "numero": "8A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8B": {
+          "numero": "8B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8C": {
+          "numero": "8C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8D": {
+          "numero": "8D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8E": {
+          "numero": "8E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8F": {
+          "numero": "8F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9A": {
+          "numero": "9A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9B": {
+          "numero": "9B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9C": {
+          "numero": "9C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9D": {
+          "numero": "9D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9E": {
+          "numero": "9E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9F": {
+          "numero": "9F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10A": {
+          "numero": "10A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10B": {
+          "numero": "10B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10C": {
+          "numero": "10C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10D": {
+          "numero": "10D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10E": {
+          "numero": "10E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10F": {
+          "numero": "10F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11A": {
+          "numero": "11A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11B": {
+          "numero": "11B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11C": {
+          "numero": "11C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11D": {
+          "numero": "11D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11E": {
+          "numero": "11E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11F": {
+          "numero": "11F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12A": {
+          "numero": "12A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12B": {
+          "numero": "12B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12C": {
+          "numero": "12C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12D": {
+          "numero": "12D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12E": {
+          "numero": "12E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12F": {
+          "numero": "12F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13A": {
+          "numero": "13A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13B": {
+          "numero": "13B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13C": {
+          "numero": "13C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13D": {
+          "numero": "13D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13E": {
+          "numero": "13E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13F": {
+          "numero": "13F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14A": {
+          "numero": "14A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14B": {
+          "numero": "14B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14C": {
+          "numero": "14C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14D": {
+          "numero": "14D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14E": {
+          "numero": "14E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14F": {
+          "numero": "14F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15A": {
+          "numero": "15A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15B": {
+          "numero": "15B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15C": {
+          "numero": "15C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15D": {
+          "numero": "15D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15E": {
+          "numero": "15E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15F": {
+          "numero": "15F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16A": {
+          "numero": "16A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16B": {
+          "numero": "16B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16C": {
+          "numero": "16C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16D": {
+          "numero": "16D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16E": {
+          "numero": "16E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16F": {
+          "numero": "16F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17A": {
+          "numero": "17A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17B": {
+          "numero": "17B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17C": {
+          "numero": "17C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17D": {
+          "numero": "17D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17E": {
+          "numero": "17E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17F": {
+          "numero": "17F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18A": {
+          "numero": "18A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18B": {
+          "numero": "18B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18C": {
+          "numero": "18C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18D": {
+          "numero": "18D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18E": {
+          "numero": "18E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18F": {
+          "numero": "18F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19A": {
+          "numero": "19A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19B": {
+          "numero": "19B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19C": {
+          "numero": "19C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19D": {
+          "numero": "19D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19E": {
+          "numero": "19E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19F": {
+          "numero": "19F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20A": {
+          "numero": "20A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20B": {
+          "numero": "20B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20C": {
+          "numero": "20C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20D": {
+          "numero": "20D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20E": {
+          "numero": "20E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20F": {
+          "numero": "20F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21A": {
+          "numero": "21A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21B": {
+          "numero": "21B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21C": {
+          "numero": "21C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21D": {
+          "numero": "21D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21E": {
+          "numero": "21E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21F": {
+          "numero": "21F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22A": {
+          "numero": "22A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22B": {
+          "numero": "22B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22C": {
+          "numero": "22C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22D": {
+          "numero": "22D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22E": {
+          "numero": "22E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22F": {
+          "numero": "22F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23A": {
+          "numero": "23A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23B": {
+          "numero": "23B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23C": {
+          "numero": "23C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23D": {
+          "numero": "23D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23E": {
+          "numero": "23E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23F": {
+          "numero": "23F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24A": {
+          "numero": "24A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24B": {
+          "numero": "24B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24C": {
+          "numero": "24C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24D": {
+          "numero": "24D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24E": {
+          "numero": "24E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24F": {
+          "numero": "24F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25A": {
+          "numero": "25A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25B": {
+          "numero": "25B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25C": {
+          "numero": "25C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25D": {
+          "numero": "25D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25E": {
+          "numero": "25E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25F": {
+          "numero": "25F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26A": {
+          "numero": "26A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26B": {
+          "numero": "26B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26C": {
+          "numero": "26C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26D": {
+          "numero": "26D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26E": {
+          "numero": "26E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26F": {
+          "numero": "26F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27A": {
+          "numero": "27A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27B": {
+          "numero": "27B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27C": {
+          "numero": "27C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27D": {
+          "numero": "27D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27E": {
+          "numero": "27E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27F": {
+          "numero": "27F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28A": {
+          "numero": "28A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28B": {
+          "numero": "28B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28C": {
+          "numero": "28C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28D": {
+          "numero": "28D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28E": {
+          "numero": "28E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28F": {
+          "numero": "28F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29A": {
+          "numero": "29A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29B": {
+          "numero": "29B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29C": {
+          "numero": "29C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29D": {
+          "numero": "29D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29E": {
+          "numero": "29E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29F": {
+          "numero": "29F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30A": {
+          "numero": "30A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30B": {
+          "numero": "30B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30C": {
+          "numero": "30C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30D": {
+          "numero": "30D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30E": {
+          "numero": "30E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30F": {
+          "numero": "30F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        }
+      }
+    },
+    "BB456": {
+      "numero": "BB456",
+      "origem": "GRU",
+      "destino": "LHR",
+      "data_hora": "2024-12-02 14:30",
+      "aeronave": {
+        "configuracao": [
+          30,
+          6
+        ],
+        "classes": {
+          "primeira": 2,
+          "executiva": 8,
+          "economica": 30
+        },
+        "fileiras_emergencia": [
+          10,
+          11
+        ]
+      },
+      "assentos": {
+        "1A": {
+          "numero": "1A",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1B": {
+          "numero": "1B",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1C": {
+          "numero": "1C",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1D": {
+          "numero": "1D",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1E": {
+          "numero": "1E",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1F": {
+          "numero": "1F",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2A": {
+          "numero": "2A",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2B": {
+          "numero": "2B",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2C": {
+          "numero": "2C",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2D": {
+          "numero": "2D",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2E": {
+          "numero": "2E",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2F": {
+          "numero": "2F",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3A": {
+          "numero": "3A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3B": {
+          "numero": "3B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3C": {
+          "numero": "3C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3D": {
+          "numero": "3D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3E": {
+          "numero": "3E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3F": {
+          "numero": "3F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4A": {
+          "numero": "4A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4B": {
+          "numero": "4B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4C": {
+          "numero": "4C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4D": {
+          "numero": "4D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4E": {
+          "numero": "4E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4F": {
+          "numero": "4F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5A": {
+          "numero": "5A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5B": {
+          "numero": "5B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5C": {
+          "numero": "5C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5D": {
+          "numero": "5D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5E": {
+          "numero": "5E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5F": {
+          "numero": "5F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6A": {
+          "numero": "6A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6B": {
+          "numero": "6B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6C": {
+          "numero": "6C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6D": {
+          "numero": "6D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6E": {
+          "numero": "6E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6F": {
+          "numero": "6F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7A": {
+          "numero": "7A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7B": {
+          "numero": "7B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7C": {
+          "numero": "7C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7D": {
+          "numero": "7D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7E": {
+          "numero": "7E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7F": {
+          "numero": "7F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8A": {
+          "numero": "8A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8B": {
+          "numero": "8B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8C": {
+          "numero": "8C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8D": {
+          "numero": "8D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8E": {
+          "numero": "8E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8F": {
+          "numero": "8F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9A": {
+          "numero": "9A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9B": {
+          "numero": "9B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9C": {
+          "numero": "9C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9D": {
+          "numero": "9D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9E": {
+          "numero": "9E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9F": {
+          "numero": "9F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10A": {
+          "numero": "10A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10B": {
+          "numero": "10B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10C": {
+          "numero": "10C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10D": {
+          "numero": "10D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10E": {
+          "numero": "10E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10F": {
+          "numero": "10F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11A": {
+          "numero": "11A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11B": {
+          "numero": "11B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11C": {
+          "numero": "11C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11D": {
+          "numero": "11D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11E": {
+          "numero": "11E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11F": {
+          "numero": "11F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12A": {
+          "numero": "12A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12B": {
+          "numero": "12B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12C": {
+          "numero": "12C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12D": {
+          "numero": "12D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12E": {
+          "numero": "12E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12F": {
+          "numero": "12F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13A": {
+          "numero": "13A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13B": {
+          "numero": "13B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13C": {
+          "numero": "13C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13D": {
+          "numero": "13D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13E": {
+          "numero": "13E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13F": {
+          "numero": "13F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14A": {
+          "numero": "14A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14B": {
+          "numero": "14B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14C": {
+          "numero": "14C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14D": {
+          "numero": "14D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14E": {
+          "numero": "14E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14F": {
+          "numero": "14F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15A": {
+          "numero": "15A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15B": {
+          "numero": "15B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15C": {
+          "numero": "15C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15D": {
+          "numero": "15D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15E": {
+          "numero": "15E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15F": {
+          "numero": "15F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16A": {
+          "numero": "16A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16B": {
+          "numero": "16B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16C": {
+          "numero": "16C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16D": {
+          "numero": "16D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16E": {
+          "numero": "16E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16F": {
+          "numero": "16F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17A": {
+          "numero": "17A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17B": {
+          "numero": "17B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17C": {
+          "numero": "17C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17D": {
+          "numero": "17D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17E": {
+          "numero": "17E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17F": {
+          "numero": "17F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18A": {
+          "numero": "18A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18B": {
+          "numero": "18B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18C": {
+          "numero": "18C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18D": {
+          "numero": "18D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18E": {
+          "numero": "18E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18F": {
+          "numero": "18F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19A": {
+          "numero": "19A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19B": {
+          "numero": "19B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19C": {
+          "numero": "19C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19D": {
+          "numero": "19D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19E": {
+          "numero": "19E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19F": {
+          "numero": "19F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20A": {
+          "numero": "20A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20B": {
+          "numero": "20B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20C": {
+          "numero": "20C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20D": {
+          "numero": "20D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20E": {
+          "numero": "20E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20F": {
+          "numero": "20F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21A": {
+          "numero": "21A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21B": {
+          "numero": "21B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21C": {
+          "numero": "21C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21D": {
+          "numero": "21D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21E": {
+          "numero": "21E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21F": {
+          "numero": "21F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22A": {
+          "numero": "22A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22B": {
+          "numero": "22B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22C": {
+          "numero": "22C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22D": {
+          "numero": "22D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22E": {
+          "numero": "22E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22F": {
+          "numero": "22F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23A": {
+          "numero": "23A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23B": {
+          "numero": "23B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23C": {
+          "numero": "23C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23D": {
+          "numero": "23D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23E": {
+          "numero": "23E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23F": {
+          "numero": "23F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24A": {
+          "numero": "24A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24B": {
+          "numero": "24B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24C": {
+          "numero": "24C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24D": {
+          "numero": "24D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24E": {
+          "numero": "24E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24F": {
+          "numero": "24F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25A": {
+          "numero": "25A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25B": {
+          "numero": "25B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25C": {
+          "numero": "25C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25D": {
+          "numero": "25D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25E": {
+          "numero": "25E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25F": {
+          "numero": "25F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26A": {
+          "numero": "26A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26B": {
+          "numero": "26B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26C": {
+          "numero": "26C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26D": {
+          "numero": "26D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26E": {
+          "numero": "26E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26F": {
+          "numero": "26F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27A": {
+          "numero": "27A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27B": {
+          "numero": "27B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27C": {
+          "numero": "27C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27D": {
+          "numero": "27D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27E": {
+          "numero": "27E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27F": {
+          "numero": "27F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28A": {
+          "numero": "28A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28B": {
+          "numero": "28B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28C": {
+          "numero": "28C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28D": {
+          "numero": "28D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28E": {
+          "numero": "28E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28F": {
+          "numero": "28F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29A": {
+          "numero": "29A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29B": {
+          "numero": "29B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29C": {
+          "numero": "29C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29D": {
+          "numero": "29D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29E": {
+          "numero": "29E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29F": {
+          "numero": "29F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30A": {
+          "numero": "30A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30B": {
+          "numero": "30B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30C": {
+          "numero": "30C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30D": {
+          "numero": "30D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30E": {
+          "numero": "30E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30F": {
+          "numero": "30F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        }
+      }
+    },
+    "CC789": {
+      "numero": "CC789",
+      "origem": "GRU",
+      "destino": "CDG",
+      "data_hora": "2024-12-03 20:15",
+      "aeronave": {
+        "configuracao": [
+          30,
+          6
+        ],
+        "classes": {
+          "primeira": 2,
+          "executiva": 8,
+          "economica": 30
+        },
+        "fileiras_emergencia": [
+          10,
+          11
+        ]
+      },
+      "assentos": {
+        "1A": {
+          "numero": "1A",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1B": {
+          "numero": "1B",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1C": {
+          "numero": "1C",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1D": {
+          "numero": "1D",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1E": {
+          "numero": "1E",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "1F": {
+          "numero": "1F",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2A": {
+          "numero": "2A",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2B": {
+          "numero": "2B",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2C": {
+          "numero": "2C",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2D": {
+          "numero": "2D",
+          "classe": "primeira",
+          "posicao": "corredor",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2E": {
+          "numero": "2E",
+          "classe": "primeira",
+          "posicao": "meio",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "2F": {
+          "numero": "2F",
+          "classe": "primeira",
+          "posicao": "janela",
+          "valor": 1000.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3A": {
+          "numero": "3A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3B": {
+          "numero": "3B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3C": {
+          "numero": "3C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3D": {
+          "numero": "3D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3E": {
+          "numero": "3E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "3F": {
+          "numero": "3F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4A": {
+          "numero": "4A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4B": {
+          "numero": "4B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4C": {
+          "numero": "4C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4D": {
+          "numero": "4D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4E": {
+          "numero": "4E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "4F": {
+          "numero": "4F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5A": {
+          "numero": "5A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5B": {
+          "numero": "5B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5C": {
+          "numero": "5C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5D": {
+          "numero": "5D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5E": {
+          "numero": "5E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "5F": {
+          "numero": "5F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6A": {
+          "numero": "6A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6B": {
+          "numero": "6B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6C": {
+          "numero": "6C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6D": {
+          "numero": "6D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6E": {
+          "numero": "6E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "6F": {
+          "numero": "6F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7A": {
+          "numero": "7A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7B": {
+          "numero": "7B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7C": {
+          "numero": "7C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7D": {
+          "numero": "7D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7E": {
+          "numero": "7E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "7F": {
+          "numero": "7F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8A": {
+          "numero": "8A",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8B": {
+          "numero": "8B",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8C": {
+          "numero": "8C",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8D": {
+          "numero": "8D",
+          "classe": "executiva",
+          "posicao": "corredor",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8E": {
+          "numero": "8E",
+          "classe": "executiva",
+          "posicao": "meio",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "8F": {
+          "numero": "8F",
+          "classe": "executiva",
+          "posicao": "janela",
+          "valor": 500.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9A": {
+          "numero": "9A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9B": {
+          "numero": "9B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9C": {
+          "numero": "9C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9D": {
+          "numero": "9D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9E": {
+          "numero": "9E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "9F": {
+          "numero": "9F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10A": {
+          "numero": "10A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10B": {
+          "numero": "10B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10C": {
+          "numero": "10C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10D": {
+          "numero": "10D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10E": {
+          "numero": "10E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "10F": {
+          "numero": "10F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11A": {
+          "numero": "11A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11B": {
+          "numero": "11B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11C": {
+          "numero": "11C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11D": {
+          "numero": "11D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11E": {
+          "numero": "11E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "11F": {
+          "numero": "11F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": true,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12A": {
+          "numero": "12A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12B": {
+          "numero": "12B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12C": {
+          "numero": "12C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12D": {
+          "numero": "12D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12E": {
+          "numero": "12E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "12F": {
+          "numero": "12F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13A": {
+          "numero": "13A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13B": {
+          "numero": "13B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13C": {
+          "numero": "13C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13D": {
+          "numero": "13D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13E": {
+          "numero": "13E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "13F": {
+          "numero": "13F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14A": {
+          "numero": "14A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14B": {
+          "numero": "14B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14C": {
+          "numero": "14C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14D": {
+          "numero": "14D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14E": {
+          "numero": "14E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "14F": {
+          "numero": "14F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15A": {
+          "numero": "15A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15B": {
+          "numero": "15B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15C": {
+          "numero": "15C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15D": {
+          "numero": "15D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15E": {
+          "numero": "15E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "15F": {
+          "numero": "15F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16A": {
+          "numero": "16A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16B": {
+          "numero": "16B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16C": {
+          "numero": "16C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16D": {
+          "numero": "16D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16E": {
+          "numero": "16E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "16F": {
+          "numero": "16F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17A": {
+          "numero": "17A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17B": {
+          "numero": "17B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17C": {
+          "numero": "17C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17D": {
+          "numero": "17D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17E": {
+          "numero": "17E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "17F": {
+          "numero": "17F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18A": {
+          "numero": "18A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18B": {
+          "numero": "18B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18C": {
+          "numero": "18C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18D": {
+          "numero": "18D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18E": {
+          "numero": "18E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "18F": {
+          "numero": "18F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19A": {
+          "numero": "19A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19B": {
+          "numero": "19B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19C": {
+          "numero": "19C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19D": {
+          "numero": "19D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19E": {
+          "numero": "19E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "19F": {
+          "numero": "19F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20A": {
+          "numero": "20A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20B": {
+          "numero": "20B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20C": {
+          "numero": "20C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20D": {
+          "numero": "20D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20E": {
+          "numero": "20E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "20F": {
+          "numero": "20F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21A": {
+          "numero": "21A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21B": {
+          "numero": "21B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21C": {
+          "numero": "21C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21D": {
+          "numero": "21D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21E": {
+          "numero": "21E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "21F": {
+          "numero": "21F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22A": {
+          "numero": "22A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22B": {
+          "numero": "22B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22C": {
+          "numero": "22C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22D": {
+          "numero": "22D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22E": {
+          "numero": "22E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "22F": {
+          "numero": "22F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23A": {
+          "numero": "23A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23B": {
+          "numero": "23B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23C": {
+          "numero": "23C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23D": {
+          "numero": "23D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23E": {
+          "numero": "23E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "23F": {
+          "numero": "23F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24A": {
+          "numero": "24A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24B": {
+          "numero": "24B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24C": {
+          "numero": "24C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24D": {
+          "numero": "24D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24E": {
+          "numero": "24E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "24F": {
+          "numero": "24F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25A": {
+          "numero": "25A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25B": {
+          "numero": "25B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25C": {
+          "numero": "25C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25D": {
+          "numero": "25D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25E": {
+          "numero": "25E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "25F": {
+          "numero": "25F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26A": {
+          "numero": "26A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26B": {
+          "numero": "26B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26C": {
+          "numero": "26C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26D": {
+          "numero": "26D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26E": {
+          "numero": "26E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "26F": {
+          "numero": "26F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27A": {
+          "numero": "27A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27B": {
+          "numero": "27B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27C": {
+          "numero": "27C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27D": {
+          "numero": "27D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27E": {
+          "numero": "27E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "27F": {
+          "numero": "27F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28A": {
+          "numero": "28A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28B": {
+          "numero": "28B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28C": {
+          "numero": "28C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28D": {
+          "numero": "28D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28E": {
+          "numero": "28E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "28F": {
+          "numero": "28F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29A": {
+          "numero": "29A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29B": {
+          "numero": "29B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29C": {
+          "numero": "29C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29D": {
+          "numero": "29D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29E": {
+          "numero": "29E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "29F": {
+          "numero": "29F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30A": {
+          "numero": "30A",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30B": {
+          "numero": "30B",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30C": {
+          "numero": "30C",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30D": {
+          "numero": "30D",
+          "classe": "economica",
+          "posicao": "corredor",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30E": {
+          "numero": "30E",
+          "classe": "economica",
+          "posicao": "meio",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        },
+        "30F": {
+          "numero": "30F",
+          "classe": "economica",
+          "posicao": "janela",
+          "valor": 200.0,
+          "emergencia": false,
+          "disponivel": true,
+          "passageiro_cpf": null
+        }
+      }
+    }
+  },
+  "reservas": {}
+}

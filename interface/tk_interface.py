@@ -88,8 +88,8 @@ class TkInterface:
         self.label_nome_usuario.pack(pady=5)
 
         botoes = [
-            ("Visualizar Voos", self.visualizar_voos),
-            ("Visualizar Assentos", self.visualizar_assentos_menu),
+            ("Voos", self.visualizar_voos),
+            ("Assentos", self.visualizar_assentos_menu),
             ("Fazer Reserva", self.fazer_reserva_menu),
             ("Cancelar Reserva", self.cancelar_reserva_menu),
             ("Modificar Reserva", self.modificar_reserva_menu),

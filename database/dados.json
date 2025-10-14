@@ -1,5 +1,18 @@
 {
-  "passageiros": {},
+  "passageiros": {
+    "14889878742": {
+      "cpf": "14889878742",
+      "nome": "Ivan Brabo",
+      "data_nascimento": "20011995",
+      "email": "ivan@superaluno.tsc.com"
+    },
+    "02884328785": {
+      "cpf": "02884328785",
+      "nome": "Juciernildes",
+      "data_nascimento": "25011961",
+      "email": "juci@ernildes.com"
+    }
+  },
   "voos": {
     "AA123": {
       "numero": "AA123",
